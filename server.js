@@ -10,7 +10,7 @@ app.use(express.static('search_app'));
 
 app.get('/api/graph', (req, res) => {
     console.log(__dirname)
-    res.sendFile(__dirname + '\\data\\filtered_graph.json'); 
+    res.sendFile(__dirname + '/data/filtered_graph.json'); 
 });
 
 // END
