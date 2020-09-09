@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+  <style> body { margin: 0; } </style>
+  <link rel="stylesheet" href="./css/index.css">
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/three-spritetext"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <title>kogitas</title>
+  <!--<script src="../../dist/3d-force-graph.js"></script>-->
+</head>
+
+<body>
+
+  <h1 style="margin:15px;"><a href="./about" style='color:#F6F6F6;'>kogitas</a> (demo)</h1>
+
+
+  <div class='info-bar'>
+    <div style='border: .7px solid gray; padding:10px; height:95%;'>
+      <h1 id='info-title'>Welcome to kogitas : <small style='font-size:25px'>the Search engine for discovery</small></h1>
+      <hr>
+      <p id='main-info'> 
+        Traditional search engines return a ranked list of webpages. This is great if you have a
+        question that needs to be answered, but terrible if you don't even know what question to ask.
+        I created kogitas because I have found traditional reccomendation algorithms to be very over-fit.
+        Google thinks they know you better than you know yourself. This isn't true - it's just that their
+        algorithm sucks, and we have adjusted our behavior to fit it.
+
+        This demo is an approximation to what will happen when someone queries "Renaissance."
+
+        As you can see, Kogitas generated a graph of people, places, things, and events related to the
+        renaissance. In effect, the query is to explore the renaissance. Kogitas does not presuppose a
+        correct answer to the query.
+
+        Currently, I am working on a more sophisticated set of tools that will allow Kogitas to become a 
+        general purpose search engine.
+      </p>
+      <p><a href="#" id='wiki-link' target='_blank'>Read more</a></p>
+    </div>
+    
+  </div>
+
+
+  <div id="3d-graph"></div>
+  <script src='./js/index.js'></script>
+</body>

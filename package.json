@@ -1,0 +1,20 @@
+{
+  "name": "drewgle",
+  "version": "1.0.0",
+  
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "When there is a query, take the top 5(?) page ranks for that word\r     and then do a BFS of 3(?) out to create and visualize the graph",
+  "main": "server.js",
+  "dependencies": {
+    "3d-force-graph": "^1.66.7",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "neo4j-driver": "^4.1.1",
+    "three": "^0.120.1"
+  },
+  "devDependencies": {},
+  "author": "Drew Tada",
+  "license": "ISC"
+}
