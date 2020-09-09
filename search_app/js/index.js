@@ -1,7 +1,7 @@
 let gData;    
 
 async function getData(callback) {
-  const response = await fetch('http://localhost:3000/api/graph');
+  const response = await fetch('/api/graph'); // needs to be fixed
   gData = await response.json();
   callback(gData);
 }
@@ -39,8 +39,6 @@ function main() {
       }
       
     });
-
-    Graph.onEngineStop(() => Graph.zoomToFit(400));
 }
 
 
