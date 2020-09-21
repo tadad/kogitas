@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-  <style> body { margin: 0; } </style>
   <link rel="stylesheet" href="./css/index.css">
   <script src="//unpkg.com/three"></script>
   <script src="//unpkg.com/three-spritetext"></script>
@@ -10,19 +9,30 @@
 </head>
 
 <body>
-
+<span id="menu">
   <h1 style="margin:15px;"><a href="./about" style='color:#F6F6F6;'>kogitas</a> (demo)</h1>
-
-
+  <form method="GET" id="query">
+    <select id="q" name="q">
+      <option value="Renaissance">Renaissance</option>
+      <option value="Computer-Science">Computer Science</option>
+      <option value="VR">Virtual Reality</option>
+      <option value="Bismarck">Otto-von Bismarck</option>
+      <option value="Reformation">Reformation</option>
+    </select>
+    <input type="submit" value="Submit">
+  </form>
+  
+</span> 
   <div class='info-bar'>
     <div class='info-content'>
-      <h1 id='info-title'>Welcome to kogitas : <small style='font-size:25px'>the Search engine for real knowledge</small></h1>
+      <h1 id='info-title'>Welcome to kogitas : <small style='font-size:25px'>a new way to explore knowledge</small></h1>
       <hr>
       <p id='main-info'> 
-        This demo is an approximation to what will happen when someone queries "Renaissance."
+        This demo has some pre-selected queries. Soon, you will be able to make whatever query you want 
+        - not just a couple I have manually created for demo purposes!
 
         As you can see, Kogitas generated a graph of people, places, things, and events related to the
-        renaissance. In effect, the query is to explore the renaissance. Kogitas does not presuppose a
+        query. In effect, the query is to explore the renaissance. Kogitas does not presuppose a
         correct answer to the query.
 
         Currently, I am working on a more sophisticated set of tools that will allow Kogitas to become a 
@@ -30,7 +40,6 @@
       </p>
       <p><a href="#" id='wiki-link' target='_blank'>Read More</a></p>
     </div>
-    
   </div>
 
 

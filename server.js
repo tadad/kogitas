@@ -5,15 +5,14 @@ const port = process.env.PORT ||80;
 
 app.use(express.static('search_app'));
 
-// TEST BEGIN
-
-
-app.get('/api/graph', (req, res) => {
-    console.log(__dirname)
-    res.sendFile(__dirname + '/data/filtered_graph.json'); 
+app.get('/api/', (req, res) => {
+    if (req.query.q != "undefined") {
+        res.sendFile(__dirname + '/data/' + req.query.q + '.json'); 
+    } else {
+        res.sendFile(__dirname + '/data/index.json')
+    }
 });
 
-// END
 
 app.get('/', (req, res) => {
     res.sendFile('./index.html', {root: __dirname});

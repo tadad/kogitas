@@ -1,7 +1,6 @@
 {
   "name": "drewgle",
   "version": "1.0.0",
-  
   "scripts": {
     "start": "node server.js"
   },
@@ -9,6 +8,7 @@
   "main": "server.js",
   "dependencies": {
     "3d-force-graph": "^1.66.7",
+    "@elastic/elasticsearch": "^7.9.0",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "neo4j-driver": "^4.1.1",

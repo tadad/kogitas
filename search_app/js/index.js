@@ -1,14 +1,16 @@
 let gData;    
 
 async function getData(callback) {
-  const response = await fetch('/api/graph'); // needs to be fixed
+  query = window.location.search.substring(1).split("=")[1]
+
+  const response = await fetch('/api/?q=' + query); // needs to be fixed
   gData = await response.json();
   callback(gData);
 }
 
 function main() {
   const Graph = ForceGraph3D()
-    (document.getElementById('3d-graph'))
+  Graph(document.getElementById('3d-graph'))
     .graphData(gData)
 
     .linkOpacity(0.1)
