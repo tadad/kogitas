@@ -9,6 +9,12 @@ async function getData(callback) {
 }
 
 function main() {
+  const highlightNodes = new Set();
+  const highlightLinks = new Set();
+  let hoverNode = null;
+
+
+
   const Graph = ForceGraph3D()
   Graph(document.getElementById('3d-graph'))
     .graphData(gData)
@@ -17,7 +23,9 @@ function main() {
 
     .nodeLabel('')
 
-    .cooldownTicks(100)
+    .onNodeClick(node=> {
+      // location.href = "/?q=" + node.name.replaceAll(' ', '_');
+    })
 
     .nodeThreeObject(node => {
       const obj = new THREE.Mesh(
@@ -45,5 +53,3 @@ function main() {
 
 
 getData(main);
-
-
