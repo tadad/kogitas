@@ -1,0 +1,431 @@
+{
+   "nodes":[
+      {
+         "id":57329286380,
+         "href":"https://en.wikipedia.org/wiki/Latin",
+         "name":"Latin",
+         "value":0.1628212124387739,
+         "childLinks":[
+
+         ],
+         "description":"Latin (lat\u012bne, [la\u02c8ti\u02d0ne] or lingua lat\u012bna, [\u02c8l\u026a\u014b\u0261\u02b7a la\u02c8ti\u02d0na]) is a classical language belonging to the Italic branch of the Indo-European languages. Latin was originally spoken in the area around Rome, known as Latium.[4] Through the power of the Roman Republic, it became the dominant language in Italy, and subsequently throughout the western Roman Empire. Latin has contributed many words to the English language. In particular, Latin (and Ancient Greek) roots are used in English descriptions of theology, the sciences, medicine, and law. It is the official language in the Holy See (Vatican City).\n",
+         "collapsed":true
+      },
+      {
+         "id":591568457418,
+         "href":"https://en.wikipedia.org/wiki/Mannerism",
+         "name":"Mannerism",
+         "value":0.1654985147107444,
+         "childLinks":[
+
+         ],
+         "description":"Mannerism, also known as Late Renaissance,[1][2] is a style in European art that emerged in the later years of the Italian High Renaissance around 1520, spreading by about 1530 and lasting until about the end of the 16th century in Italy, when the Baroque style largely replaced it. Northern Mannerism continued into the early 17th century.[3]\n",
+         "collapsed":true
+      },
+      {
+         "id":281762234258,
+         "href":"https://en.wikipedia.org/wiki/English_Renaissance",
+         "name":"English Renaissance",
+         "value":0.1730109661376778,
+         "childLinks":[
+
+         ],
+         "description":"The English Renaissance was a cultural and artistic movement in England dating from the late 15th century to the early 17th century. It is associated with the pan-European Renaissance that is usually regarded as beginning in Italy in the late 14th century. As in most of the rest of northern Europe, England saw little of these developments until more than a century later. The beginning of the English Renaissance is often taken, as a convenience, to be 1485, when the Battle of Bosworth Field ended the Wars of the Roses and inaugurated the Tudor Dynasty.  Renaissance style and ideas, however, were slow to penetrate England, and the Elizabethan era in the second half of the 16th century is usually regarded as the height of the English Renaissance.\n",
+         "collapsed":true
+      },
+      {
+         "id":417262681234,
+         "href":"https://en.wikipedia.org/wiki/Renaissance_philosophy",
+         "name":"Renaissance philosophy",
+         "value":0.17575900954925902,
+         "childLinks":[
+
+         ],
+         "description":"The designation \"Renaissance philosophy\" is used by scholars of intellectual history to refer to the thought of the period running in Europe roughly between 1355 and 1650 (the dates shift forward for central and northern Europe and for areas such as Spanish America, India, Japan, and China under European influence). It therefore overlaps both with late medieval philosophy, which in the fourteenth and fifteenth centuries was influenced by notable figures such as Albert the Great, Thomas Aquinas, William of Ockham, and Marsilius of Padua, and early modern philosophy, which conventionally starts with Ren\u00e9 Descartes and his publication of the Discourse on Method in 1637.\n",
+         "collapsed":true
+      },
+      {
+         "id":746073722075,
+         "href":"https://en.wikipedia.org/wiki/Italian_Renaissance",
+         "name":"Italian Renaissance",
+         "value":0.17586415907229663,
+         "childLinks":[
+
+         ],
+         "description":"The Italian Renaissance (Italian: Rinascimento [rina\u0283\u0283i\u02c8mento]) was a period in the Italian history that covered the 15th (Quattrocento) and 16th (Cinquecento) centuries, spreading across Europe and marking the transition from the Middle Ages to Modernity. Proponents of a \"long Renaissance\" argue that it began in the 14th century (Trecento) and lasted until the 17th century (Seicento). The French word renaissance (rinascimento in Italian) means \"rebirth\" and defines the period as one of cultural revival and renewed interest in classical antiquity after the centuries labeled the Dark Ages by Renaissance humanists. The Renaissance author Giorgio Vasari used the term \"Rebirth\" in his Lives of the Most Excellent Painters, Sculptors, and Architects in 1550 but the concept became widespread only in the 19th century, after the works of scholars such as Jules Michelet and Jacob Burckhardt.\n",
+         "collapsed":true
+      },
+      {
+         "id":182047329385,
+         "href":"https://en.wikipedia.org/wiki/Renaissance_in_Scotland",
+         "name":"Renaissance in Scotland",
+         "value":0.17929157324371295,
+         "childLinks":[
+
+         ],
+         "description":"The Renaissance in Scotland was a cultural, intellectual and artistic movement in Scotland, from the late fifteenth century to the beginning of the seventeenth century. It is associated with the pan-European Renaissance that is usually regarded as beginning in Italy in the late fourteenth century and reaching northern Europe as a Northern Renaissance in the fifteenth century. It involved an attempt to revive the principles of the classical era, including humanism, a spirit of scholarly enquiry, scepticism, and concepts of balance and proportion. Since the twentieth century, the uniqueness and unity of the Renaissance has been challenged by historians, but significant changes in Scotland can be seen to have taken place in education, intellectual life, literature, art, architecture, music, science and politics.\n",
+         "collapsed":true
+      },
+      {
+         "id":81987823764,
+         "href":"https://en.wikipedia.org/wiki/Middle_Ages",
+         "name":"Middle Ages",
+         "value":0.19106106148750732,
+         "childLinks":[
+
+         ],
+         "description":"In the history of Europe, the Middle Ages or  Medieval Period lasted from the 5th to the 15th century. It began with the fall of the Western Roman Empire and merged into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.\n",
+         "collapsed":true
+      },
+      {
+         "id":103033405819,
+         "href":"https://en.wikipedia.org/wiki/History_of_science_in_the_Renaissance",
+         "name":"History of science in the Renaissance",
+         "value":0.21178381426551415,
+         "childLinks":[
+
+         ],
+         "description":"During the Renaissance, great advances occurred in geography, astronomy, chemistry, physics, mathematics, manufacturing, anatomy and engineering.  The rediscovery of ancient scientific texts was accelerated after the Fall of Constantinople in 1453, and the invention of printing democratized learning and allowed a faster propagation of new ideas. But, at least in its initial period, some see the Renaissance as one of scientific backwardness. Historians like George Sarton and Lynn Thorndike have criticized how the Renaissance affected science, arguing that progress was slowed for some amount of time. Humanists favoured human-centered subjects like politics and history over study of natural philosophy or applied mathematics. Others have focused on the positive influence of the Renaissance, pointing to factors like the rediscovery of lost or obscure texts and the increased emphasis on the study of language and the correct reading of texts.\n",
+         "collapsed":true
+      },
+      {
+         "id":87713459527,
+         "href":"https://en.wikipedia.org/wiki/Italy",
+         "name":"Italy",
+         "value":0.22341273916299087,
+         "childLinks":[
+
+         ],
+         "description":"Italy (Italian: Italia [i\u02c8ta\u02d0lja] (listen)), officially the Italian Republic (Italian: Repubblica Italiana [re\u02c8pubblika ita\u02c8lja\u02d0na]),[11][12][13][14]  is a country consisting of a peninsula delimited by the Alps and surrounded by several islands. Italy is located in south-central Europe,[15][16] and is considered part of western Europe.[17][18] A unitary parliamentary republic with Rome as its capital, the country covers a total area of 301,340\u00a0km2 (116,350\u00a0sq\u00a0mi) and shares land borders with France, Switzerland, Austria, Slovenia, and the enclaved microstates of Vatican City and San Marino. Italy has a territorial enclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). With around 60 million inhabitants, Italy is the third-most populous member state of the European Union.\n",
+         "collapsed":true
+      },
+      {
+         "id":43658245870,
+         "href":"https://en.wikipedia.org/wiki/Spanish_Renaissance",
+         "name":"Spanish Renaissance",
+         "value":0.23404610278843108,
+         "childLinks":[
+
+         ],
+         "description":"The Spanish Renaissance refers to a movement in Spain, emerging from the Italian Renaissance in Italy during the 14th century, that spread to Spain during the 15th and 16th centuries.\n",
+         "collapsed":true
+      },
+      {
+         "id":469748938159,
+         "href":"https://en.wikipedia.org/wiki/Renaissance_architecture",
+         "name":"Renaissance architecture",
+         "value":0.24252052379841924,
+         "childLinks":[
+
+         ],
+         "description":"Renaissance architecture is the European architecture of the period between the early 14th and early 16th centuries in different regions, demonstrating a conscious revival and development of certain elements of ancient Greek and Roman thought and material culture. Stylistically, Renaissance architecture followed Gothic architecture and was succeeded by Baroque architecture. Developed first in Florence, with Filippo Brunelleschi as one of its innovators, the Renaissance style quickly spread to other Italian cities. The style was carried to France, Spain, Germany, England, Russia and other parts of Europe at different dates and with varying degrees of impact.\n",
+         "collapsed":true
+      },
+      {
+         "id":313921867636,
+         "href":"https://en.wikipedia.org/wiki/Florence",
+         "name":"Florence",
+         "value":0.2793988644120691,
+         "childLinks":[
+
+         ],
+         "description":"Florence (/\u02c8fl\u0254\u02d0r\u0259ns/ FLORR-\u0259nss; Italian: Firenze [fi\u02c8r\u025bntse] (listen))[a] is a city in central Italy and the capital city of the Tuscany region. It is the most populated city in Tuscany, with 383,084 inhabitants in 2013, and over 1,520,000 in its metropolitan area.[4]\n",
+         "collapsed":true
+      },
+      {
+         "id":27468354177,
+         "href":"https://en.wikipedia.org/wiki/Northern_Renaissance",
+         "name":"Northern Renaissance",
+         "value":0.282461824793519,
+         "childLinks":[
+
+         ],
+         "description":"The Northern Renaissance was the Renaissance that occurred in Europe north of the Alps. From the last years of the 15th century, its Renaissance spread around Europe. Called the Northern Renaissance because it occurred north of the Italian Renaissance, this period became the German, French, English, Low Countries, Polish Renaissances and in turn other national and localized movements, each with different attributes.\n",
+         "collapsed":true
+      },
+      {
+         "id":68607023990,
+         "href":"https://en.wikipedia.org/wiki/Renaissance_music",
+         "name":"Renaissance music",
+         "value":0.29723329249838704,
+         "childLinks":[
+
+         ],
+         "description":"Renaissance music is vocal and instrumental music written and performed in Europe during the Renaissance era. Consensus among music historians has been to start the era around 1400, with the end of the medieval era, and to close it around 1600, with the beginning of the Baroque period, therefore commencing the musical Renaissance about a hundred years after the beginning of the Renaissance as it is understood in other disciplines. As in the other arts, the music of the period was significantly influenced by the developments which define the Early Modern period: the rise of humanistic thought; the recovery of the literary and artistic heritage of Ancient Greece and Ancient Rome; increased innovation and discovery; the growth of commercial enterprises; the rise of a bourgeois class; and the Protestant Reformation. From this changing society emerged a common, unifying musical language, in particular, the polyphonic style (this means music with multiple, independent melody lines performed simultaneously) of the Franco-Flemish school, whose greatest master was Josquin des Prez.\n",
+         "collapsed":true
+      },
+      {
+         "id":145982687946,
+         "href":"https://en.wikipedia.org/wiki/Renaissance",
+         "name":"Renaissance",
+         "value":0.7729722617416322,
+         "childLinks":[
+
+         ],
+         "description":"The Renaissance (UK: /r\u026a\u02c8ne\u026as\u0259ns/ rin-AY-s\u0259nss, US: /\u02c8r\u025bn\u0259s\u0251\u02d0ns/ (listen) REN-\u0259-sahnss)[2][a] was a period in European history marking the transition from the Middle Ages to Modernity and covering the 15th and 16th centuries. It occurred after the Crisis of the Late Middle Ages and was associated with great social change. In addition to the standard periodization, proponents of a long Renaissance put its beginning in the 14th century and its end in the 17th century. The traditional view focuses more on the early modern aspects of the Renaissance and argues that it was a break from the past, but many historians today focus more on its medieval aspects and argue that it was an extension of the Middle Ages.[4][5]\n",
+         "collapsed":false
+      }
+   ],
+   "links":[
+      {
+         "source":43658245870,
+         "target":27468354177
+      },
+      {
+         "source":68607023990,
+         "target":27468354177
+      },
+      {
+         "source":68607023990,
+         "target":43658245870
+      },
+      {
+         "source":81987823764,
+         "target":57329286380
+      },
+      {
+         "source":87713459527,
+         "target":57329286380
+      },
+      {
+         "source":87713459527,
+         "target":81987823764
+      },
+      {
+         "source":103033405819,
+         "target":68607023990
+      },
+      {
+         "source":103033405819,
+         "target":43658245870
+      },
+      {
+         "source":103033405819,
+         "target":27468354177
+      },
+      {
+         "source":103033405819,
+         "target":87713459527
+      },
+      {
+         "source":145982687946,
+         "target":68607023990
+      },
+      {
+         "source":145982687946,
+         "target":103033405819
+      },
+      {
+         "source":145982687946,
+         "target":43658245870
+      },
+      {
+         "source":145982687946,
+         "target":27468354177
+      },
+      {
+         "source":145982687946,
+         "target":87713459527
+      },
+      {
+         "source":145982687946,
+         "target":81987823764
+      },
+      {
+         "source":145982687946,
+         "target":57329286380
+      },
+      {
+         "source":182047329385,
+         "target":145982687946
+      },
+      {
+         "source":182047329385,
+         "target":68607023990
+      },
+      {
+         "source":182047329385,
+         "target":103033405819
+      },
+      {
+         "source":182047329385,
+         "target":43658245870
+      },
+      {
+         "source":182047329385,
+         "target":27468354177
+      },
+      {
+         "source":281762234258,
+         "target":145982687946
+      },
+      {
+         "source":281762234258,
+         "target":68607023990
+      },
+      {
+         "source":281762234258,
+         "target":103033405819
+      },
+      {
+         "source":281762234258,
+         "target":43658245870
+      },
+      {
+         "source":281762234258,
+         "target":182047329385
+      },
+      {
+         "source":281762234258,
+         "target":27468354177
+      },
+      {
+         "source":313921867636,
+         "target":87713459527
+      },
+      {
+         "source":313921867636,
+         "target":81987823764
+      },
+      {
+         "source":313921867636,
+         "target":145982687946
+      },
+      {
+         "source":417262681234,
+         "target":145982687946
+      },
+      {
+         "source":417262681234,
+         "target":68607023990
+      },
+      {
+         "source":417262681234,
+         "target":103033405819
+      },
+      {
+         "source":417262681234,
+         "target":281762234258
+      },
+      {
+         "source":417262681234,
+         "target":43658245870
+      },
+      {
+         "source":417262681234,
+         "target":182047329385
+      },
+      {
+         "source":417262681234,
+         "target":27468354177
+      },
+      {
+         "source":469748938159,
+         "target":145982687946
+      },
+      {
+         "source":469748938159,
+         "target":68607023990
+      },
+      {
+         "source":469748938159,
+         "target":417262681234
+      },
+      {
+         "source":469748938159,
+         "target":103033405819
+      },
+      {
+         "source":469748938159,
+         "target":281762234258
+      },
+      {
+         "source":469748938159,
+         "target":43658245870
+      },
+      {
+         "source":469748938159,
+         "target":182047329385
+      },
+      {
+         "source":469748938159,
+         "target":27468354177
+      },
+      {
+         "source":469748938159,
+         "target":313921867636
+      },
+      {
+         "source":469748938159,
+         "target":81987823764
+      },
+      {
+         "source":469748938159,
+         "target":87713459527
+      },
+      {
+         "source":591568457418,
+         "target":145982687946
+      },
+      {
+         "source":591568457418,
+         "target":469748938159
+      },
+      {
+         "source":746073722075,
+         "target":313921867636
+      },
+      {
+         "source":746073722075,
+         "target":145982687946
+      },
+      {
+         "source":746073722075,
+         "target":81987823764
+      },
+      {
+         "source":746073722075,
+         "target":469748938159
+      },
+      {
+         "source":746073722075,
+         "target":68607023990
+      },
+      {
+         "source":746073722075,
+         "target":417262681234
+      },
+      {
+         "source":746073722075,
+         "target":103033405819
+      },
+      {
+         "source":746073722075,
+         "target":281762234258
+      },
+      {
+         "source":746073722075,
+         "target":43658245870
+      },
+      {
+         "source":746073722075,
+         "target":182047329385
+      },
+      {
+         "source":746073722075,
+         "target":27468354177
+      },
+      {
+         "source":746073722075,
+         "target":591568457418
+      },
+      {
+         "source":746073722075,
+         "target":57329286380
+      },
+      {
+         "source":746073722075,
+         "target":87713459527
+      }
+   ]
+}
