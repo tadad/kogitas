@@ -1,36 +1,35 @@
 <!DOCTYPE html>
 <htmL>
   <head>
-    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./index.css">
     <script src="//unpkg.com/three"></script>
     <script src="//unpkg.com/three-spritetext"></script>
     <script src="//unpkg.com/3d-force-graph"></script>
     <title>kogitas</title>
-    <!--<script src="../../dist/3d-force-graph.js"></script>-->
   </head>
   
   <body>
-  <div id="side-nav">
-    <form method="GET" id="query-form">
-      <select id="q" name="q">
-        <option value="Renaissance10">Renaissance - 10</option>
-        <option value="Renaissance15">Renaissance - 15</option>
-        <option value="Renaissance20">Renaissance - 20</option>
-        <option value="Renaissance25">Renaissance - 25</option>
-      </select>
-      <input type="submit" value="Submit">
-    </form>
-    <div id='info-container'>
-      <div class='info-content'>
-        <h1 id='info-title'></h1>
-        <hr>
-        <p id='main-info'></p>
-        <p><a href="#" id='wiki-link' target='_blank'>Read More</a></p>
-        <p onclick="closeSide()"><a href='#'>close</a></p>
+    <div id="side-nav">
+      <form method="GET" id="query-form">
+        <select id="q" name="q">
+          <option value="Renaissance10">Renaissance - 10</option>
+          <option value="Renaissance15">Renaissance - 15</option>
+          <option value="Renaissance20">Renaissance - 20</option>
+          <option value="Renaissance25">Renaissance - 25</option>
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+      <div id='info-container'>
+        <div class='info-content'>
+          <h1 id='info-title'></h1>
+          <hr>
+          <p id='main-info'></p>
+          <p><a href="#" id='wiki-link' target='_blank'>Read More</a></p>
+          <p onclick="closeSide()"><a href='#'>close</a></p>
+        </div>
       </div>
-    </div>
-  </div> 
+    </div> 
     <div id="3d-graph"></div>
-    <script src='./js/index.js'></script>
+    <script src='./index.js'></script>
   </body>
 </htmL>
